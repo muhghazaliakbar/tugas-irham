@@ -1,0 +1,1 @@
+// Queri untuk menghapus nilai.
